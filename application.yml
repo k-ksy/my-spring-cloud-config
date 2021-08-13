@@ -1,6 +1,6 @@
 token:
   expirtation_time: 864000000
-  secret: user_token_default
+  secret: encrypted_user_token
 
 gateway:
   ip: 0.0.0.0
