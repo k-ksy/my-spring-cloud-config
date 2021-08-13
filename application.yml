@@ -1,5 +1,5 @@
 token:
-  expirtation_time: 864000000
+  expiration_time: 864000000
   secret: encrypted_user_token
 
 gateway:
