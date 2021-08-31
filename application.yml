@@ -3,4 +3,4 @@ token:
   secret: encrypted_user_token
 
 gateway:
-  ip: 0.0.0.0
+  ip: 172.18.0.5
